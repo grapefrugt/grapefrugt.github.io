@@ -1,0 +1,51 @@
+body {
+    background-color: #0A0A2E;
+  }
+p {
+  font-size: 36px
+}
+[href]{
+    color: darkBlue;
+    background-color: grey;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+.musicBox{
+  border-style: solid;
+  border-radius: 4px
+}
+
+.indexReturn{
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 43px;
+  border-style: none;
+  border-radius: 3px;
+  letter-spacing: 2px;
+  transform: rotate(36deg);
+}
+
+.cool{
+  font-family: papyrus;
+  color: BlueViolet;
+  font-size: larger;
+  opacity: 0.4;
+  letter-spacing: 0.02em;
+}
+.cool2{
+  opacity: 0.6;
+}
+.cool3{
+  opacity: 0.8;
+}
+.cool4{
+  opacity: 1;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
